@@ -74,6 +74,6 @@ while True:
         if players_score == 0:
             continue
 
-        if players_score[player] >= 20:
+        if players_score[player] >= MAX_SCORE:
             print(f"{players_name[player]} won the game with a score of {players_score[player]}")
             quit()

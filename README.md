@@ -7,3 +7,4 @@
 | 2 | rock_paper_scissors   | A simple rock paper scissors game             | 
 | 3 | password_manger       | Project to store and encrypt passwords        | 
 | 4 | pig_game              | A simple Pig Game                             | 
+| 5 | madlibs_generator     | A simple madlibs generator                    | 

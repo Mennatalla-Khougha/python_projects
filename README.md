@@ -8,3 +8,4 @@
 | 3 | password_manger       | Project to store and encrypt passwords        | 
 | 4 | pig_game              | A simple Pig Game                             | 
 | 5 | madlibs_generator     | A simple madlibs generator                    | 
+| 6 | timed_math_challenge  | A simple timed math challenge                 | 

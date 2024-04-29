@@ -10,7 +10,7 @@ TOTAL_PROBLEM = 10
 print("Answer to the closest integer")
 play = input("Do you want to play? (yes/no) ")
 
-if play.lower() != "yes":
+if play.lower() == "no":
     print("Bye!")
     exit()
 
@@ -45,4 +45,4 @@ end_time = time.time() - start_time
 
 print("-----------------------------")
 print("Nice job!")
-print(f"You got {TOTAL_PROBLEM - wrong_answers} correct from possible {TOTAL_PROBLEM} problem in {int(end_time)} seconds.")
+print(f"You got {TOTAL_PROBLEM - wrong_answers} correct from {TOTAL_PROBLEM} problems in a {TOTAL_PROBLEM + wrong_answers} tries in {int(end_time)} seconds.")

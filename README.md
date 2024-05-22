@@ -9,3 +9,4 @@
 | 4 | pig_game              | A simple Pig Game                             | 
 | 5 | madlibs_generator     | A simple madlibs generator                    | 
 | 6 | timed_math_challenge  | A simple timed math challenge                 | 
+| 7 | slot-machine          | A simple slot machine game                 | 
